@@ -9,7 +9,6 @@
     "resolveJsonModule": true,
     "jsx": "react",
     "declaration": true,
-    "pretty": true,
     "newLine": "lf",
     "stripInternal": true,
     "strict": true,
@@ -17,7 +16,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedIndexedAccess": true,
+    // TODO reenable with TypeScript 4
+    // "noUncheckedIndexedAccess": true,
     "noEmitOnError": true,
     "useDefineForClassFields": true,
     "forceConsistentCasingInFileNames": true,
