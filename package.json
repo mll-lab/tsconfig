@@ -1,0 +1,22 @@
+{
+  "name": "@mll-lab/tsconfig",
+  "version": "0.0.2",
+  "description": "The shareable TypeScript configuration of MLL",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mll-lab/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config"
+  ],
+  "author": "Benedikt Franke <benedikt@franke.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mll-lab/tsconfig/issues"
+  },
+  "homepage": "https://github.com/mll-lab/tsconfig"
+}

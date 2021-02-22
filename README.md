@@ -1,2 +1,3 @@
 # tsconfig
-The shareable tsconfig of MLL
+
+The shareable TypeScript configuration of MLL
