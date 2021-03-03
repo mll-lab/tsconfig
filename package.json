@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/mll-lab/tsconfig/issues"
   },
-  "homepage": "https://github.com/mll-lab/tsconfig"
+  "homepage": "https://github.com/mll-lab/tsconfig",
+  "scripts": {
+    "validate": "tsc --project tsconfig.test.json"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.4.0",
+    "typescript": "^4.2.2"
+  }
 }
