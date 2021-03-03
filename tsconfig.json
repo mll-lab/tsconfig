@@ -3,7 +3,7 @@
     // Disabled because of https://github.com/Microsoft/TypeScript/issues/29172
     // "outDir": "dist",
     "target": "ES2015",
-    "module": "CommonJS",
+    "module": "ES2015",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "jsx": "react",
