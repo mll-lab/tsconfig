@@ -2,7 +2,6 @@
   "compilerOptions": {
     // Disabled because of https://github.com/Microsoft/TypeScript/issues/29172
     // "outDir": "dist",
-
     "target": "ES2015",
     "module": "CommonJS",
     "moduleResolution": "node",
