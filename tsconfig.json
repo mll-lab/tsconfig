@@ -14,8 +14,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    // TODO reenable with TypeScript 4
-    // "noUncheckedIndexedAccess": true,
+    "noUncheckedIndexedAccess": true,
     "noEmitOnError": true,
     "useDefineForClassFields": true,
     "forceConsistentCasingInFileNames": true,
