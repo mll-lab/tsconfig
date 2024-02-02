@@ -25,11 +25,11 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^22.0.8",
+    "semantic-release": "^23.0.0",
     "typescript": "^5.3.2"
   },
   "peerDependencies": {
     "typescript": "^5.3.2"
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.1.0"
 }
