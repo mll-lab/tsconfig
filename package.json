@@ -22,14 +22,17 @@
   "scripts": {
     "validate": "tsc --project tsconfig.test.json"
   },
+  "publishConfig": {
+    "provenance": true
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^23.0.0",
+    "semantic-release": "^25.0.1",
     "typescript": "^5.3.2"
   },
   "peerDependencies": {
     "typescript": "^5.3.2"
   },
-  "packageManager": "yarn@4.1.0"
+  "packageManager": "yarn@4.10.3"
 }
