@@ -4,7 +4,9 @@ The shareable TypeScript configuration of MLL
 
 ## Installation
 
-    yarn add --dev @mll-lab/tsconfig
+```shell
+yarn add --dev @mll-lab/tsconfig
+```
 
 ## Usage
 
