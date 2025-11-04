@@ -1,6 +1,6 @@
 {
   "name": "@mll-lab/tsconfig",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "The shareable TypeScript configuration of MLL",
   "main": "tsconfig.json",
   "repository": {
